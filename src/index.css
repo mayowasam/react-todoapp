@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+.content{
+  width: 40%;
+  border: 1px solid black;
+  margin:auto;
+  background-color: rgb(93, 93, 199);
+}
+.contentbox{
+  padding:15px;
+  
+}
